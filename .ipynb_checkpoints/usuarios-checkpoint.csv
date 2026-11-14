@@ -1,0 +1,16 @@
+usuario_id;edad;sexo;pais;titulacion;fecha_alta
+U001;24;F;España;Informática;2026-01-10
+U002;31;M;España;Telecomunicación;2026-01-12
+U003;27;F;Portugal;Matemáticas;2026-01-15
+U004;42;M;España;Ingeniería Industrial;2026-01-18
+U005;36;F;México;Informática;2026-01-20
+U006;29;M;Argentina;Física;2026-01-21
+U007;51;F;España;Economía;2026-01-25
+U008;33;M;Colombia;Informática;2026-02-01
+U009;22;F;España;Telecomunicación;2026-02-03
+U010;45;M;Chile;Ingeniería Industrial;2026-02-05
+U011;39;F;España;Matemáticas;2026-02-10
+U012;26;M;Perú;Informática;2026-02-12
+U013;34;F;España;Economía;2026-02-15
+U014;48;M;Portugal;Telecomunicación;2026-02-18
+U015;30;F;España;Informática;2026-02-20
